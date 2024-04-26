@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608929021511",
+    "project_id": "fir-trial-794a0",
+    "storage_bucket": "fir-trial-794a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608929021511:android:056c9eec96bec94bf9fb62",
+        "android_client_info": {
+          "package_name": "com.amar.price_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcxTvdehwsTe8xWfLNsYA_LiDjdGWStU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
